@@ -1,2 +1,2 @@
-# blockchainIST
-LEIC-A 3ºyear
+# blockchainIST (3º year 3º period)
+Project for Distributed Systems
